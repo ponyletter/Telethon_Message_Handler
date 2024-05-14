@@ -1,0 +1,8 @@
+# config.yaml
+api_id: 'your_api_id'
+api_hash: 'your_api_hash'
+phone_number: 'your_phone_number'
+chat_usernames:
+  - 'username_or_phone_number_1'
+  - 'username_or_phone_number_2'
+  # Add more usernames as needed
